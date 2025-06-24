@@ -183,15 +183,13 @@ ttkthemes
 
 ## Licencia
 
-Copyright (c) [2025] Efrain Suarez
+Este software está licenciado bajo la Licencia Creative Commons Atribución-NoComercial 4.0 Internacional (CC BY-NC 4.0).
 
-Se concede permiso, de forma gratuita, a cualquier persona que obtenga una copia de este software y de los archivos de documentación asociados (el "Software"), para utilizar el Software sin restricciones, excepto el uso comercial, incluyendo, sin limitación, los derechos de uso, copia, modificación, fusión, publicación, distribución, sublicencia y/o venta de copias del Software, salvo que se trate de uso no comercial.
+Puedes copiar, redistribuir, mezclar y adaptar este software para cualquier propósito no comercial, siempre y cuando se atribuya adecuadamente al autor original.
 
-SE PROHÍBE el uso comercial, la venta o la distribución con fines de lucro de este Software o de cualquier obra derivada del mismo.
+No está permitido el uso comercial, la venta o la distribución con fines de lucro de este software o de cualquier obra derivada del mismo, sin autorización expresa del autor.
 
-El Software se proporciona "TAL CUAL", sin garantía de ningún tipo, expresa o implícita, incluyendo, pero no limitado a, las garantías de comerciabilidad, idoneidad para un propósito particular y no infracción. En ningún caso el autor o los titulares de los derechos de autor serán responsables por cualquier reclamo, daño u otra responsabilidad, ya sea en una acción de contrato, agravio o de otro tipo, que surja de, en conexión con, o en relación con el Software o el uso u otras operaciones en el Software.
-
-
+© 2025 Efrain Suarez
 ---
 
 ## Autor
