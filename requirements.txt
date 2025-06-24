@@ -1,0 +1,11 @@
+Tkinter
+vlc
+pandas
+requests
+openpyxl
+ttkthemes
+pyperclip
+csv
+json
+subprocess
+getpass
