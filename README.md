@@ -157,7 +157,39 @@ MIT License.
 
 ## Autor
 
-Desarrollado por [Tu Nombre o Equipo].
+Desarrollado por Efrain Suarez.
+
+---
+
+## Galería de la Aplicación
+
+### 1. Interfaz del programa vacía
+
+![Interfaz del programa vacía](img/01%20Interfaz%20del%20programa%20Vacio.png)
+
+---
+
+### 2. Validación del archivo INI
+
+![Validación del archivo INI](img/02%20Interfaz%20haciendo%20validacion%20del%20archivo%20%20ini.png)
+
+---
+
+### 3. Aviso de validación de enlaces completada
+
+![Validación completada](img/03%20interfaz%20con%20aviso%20de%20validacio%20de%20enlaces%20completada.png)
+
+---
+
+### 4. Exportación de validación de enlaces a Excel
+
+![Exportación a Excel](img/04%20exportacion%20de%20validacion%20de%20enlaces%20a%20un%20excel.png)
+
+---
+
+### 5. Importación de CSV para validación
+
+![Importación de CSV](img/05%20Importacion%20de%20CVS%20para%20validacion%20.png)
 
 ---
 
